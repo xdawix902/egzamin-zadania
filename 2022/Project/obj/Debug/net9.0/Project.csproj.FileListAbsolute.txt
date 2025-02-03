@@ -1,0 +1,8 @@
+G:\Mój dysk\c#\WDP\egzamin-powtórka\egzamin-zadania\2022\Project\obj\Debug\net9.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mój dysk\c#\WDP\egzamin-powtórka\egzamin-zadania\2022\Project\obj\Debug\net9.0\Project.AssemblyInfoInputs.cache
+G:\Mój dysk\c#\WDP\egzamin-powtórka\egzamin-zadania\2022\Project\obj\Debug\net9.0\Project.AssemblyInfo.cs
+G:\Mój dysk\c#\WDP\egzamin-powtórka\egzamin-zadania\2022\Project\obj\Debug\net9.0\Project.csproj.CoreCompileInputs.cache
+G:\Mój dysk\c#\WDP\egzamin-powtórka\egzamin-zadania\2022\Project\obj\Debug\net9.0\Project.sourcelink.json
+G:\Mój dysk\c#\WDP\egzamin-powtórka\egzamin-zadania\2022\Project\obj\Debug\net9.0\Project.dll
+G:\Mój dysk\c#\WDP\egzamin-powtórka\egzamin-zadania\2022\Project\obj\Debug\net9.0\refint\Project.dll
+G:\Mój dysk\c#\WDP\egzamin-powtórka\egzamin-zadania\2022\Project\obj\Debug\net9.0\Project.pdb
